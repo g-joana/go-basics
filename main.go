@@ -4,7 +4,7 @@ package main
 import (
 	// "errors"
 	"fmt" // from standard lib
-	"github.com/jou-code/go-basics/assets" // import package by "module-name/package-name"
+	"github.com/g-joana/go-basics/assets" // import package by "module-name/package-name"
 	// module name is usually repo address as a convention because of go tools that search for the link to download the code locally when developing
 )
 
